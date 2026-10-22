@@ -1,0 +1,6 @@
+Query,Ekspresi Boolean,Jumlah hasil,Relevan (TP),Presisi,Recall,Salah ambil (di luar topik)
+K1,inflasi OR kredit OR investasi OR saham OR ekspor OR umkm,5,5,1.0,0.833,[]
+K2,inflasi OR kredit OR investasi OR ekspor OR umkm OR qris,6,6,1.0,1.0,[]
+K3,harga OR bayar OR usaha OR bank OR pasar OR modal OR bisnis,9,6,0.667,1.0,"['D12', 'D16', 'D18']"
+K4,(harga OR bayar OR usaha OR bank OR pasar OR modal OR bisnis) AND NOT (panen OR komputasi OR data),6,6,1.0,1.0,[]
+K5,bank AND (bunga OR kredit),2,2,1.0,0.333,[]

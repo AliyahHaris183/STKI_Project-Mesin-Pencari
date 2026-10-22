@@ -1,0 +1,4 @@
+Konfigurasi sklearn,Urutan top-5 identik (dari 8 query),Rata-rata irisan top-5,Query yang berbeda
+bawaan,3,0.9,"['Q2', 'Q5', 'Q6', 'Q7', 'Q8']"
+sublinear_tf=True,3,0.95,"['Q2', 'Q5', 'Q6', 'Q7', 'Q8']"
+sublinear_tf=True + smooth_idf=False,3,0.95,"['Q2', 'Q5', 'Q6', 'Q7', 'Q8']"
