@@ -1,0 +1,5 @@
+# STKI_Project-Mesin-Pencari
+STKI Semester 5 [Tahun Ajar 2026/2027]
+
+Anggota:
+1. D121241080 - Andi Nurul Aliyah Haris
